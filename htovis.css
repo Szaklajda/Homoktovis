@@ -10,10 +10,12 @@ h1{
   font-size: 222%;
   margin: 0px 0px 10px;
   text-transform: uppercase;
+  color: #eb7100;
 }
 
 h2 {
   text-transform: uppercase;
+  color: #eb7100;
 }
 
 p{
