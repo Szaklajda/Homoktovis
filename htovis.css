@@ -70,6 +70,10 @@ li{
   font-style: italic;
 }
 
+ul {
+  list-style-image: url(bogyo.png);
+}
+
 .blokktores{
   clear: both;
 }
