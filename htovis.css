@@ -38,6 +38,10 @@ p:first-letter{
   box-shadow: 10px 10px 5px #cfb7a2;
 }
 
+#bevezeto {
+  font-weight: 600;
+}
+
 #erdekesseg{
   width:250px;
   float:right;
