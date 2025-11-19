@@ -16,7 +16,7 @@ h1{
 h2 {
   text-transform: uppercase;
   color: #eb7100;
-  text-align: center;
+  text-align: left;
 }
 
 p{
@@ -55,7 +55,7 @@ p:first-letter{
   -ms-transform: rotate(5deg);
   -webkit-transform: rotate(5deg);
   transform: rotate(5deg);
-  
+  text-align: center;
 }
 
 #bokor{
@@ -80,4 +80,8 @@ ul {
 
 .blokktores{
   clear: both;
+}
+
+#h2 {
+  text-align: center;
 }
